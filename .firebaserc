@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "food-order-app-8b532",
+    "build": "food-order-app-8b532"
+  },
+  "targets": {}
+}
